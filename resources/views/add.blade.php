@@ -47,7 +47,7 @@
   </div>
   <div class="form-group form-check">
     <label class="form-check-label">
-      <input class="form-check-input" type="checkbox" name="remember" required> I agree on anani la ghlate fi les données saisie chrboni l9ahwa.
+      <input class="form-check-input" type="checkbox" name="remember" required> I agree 
       <div class="valid-feedback">Valid.</div>
       <div class="invalid-feedback">Check this checkbox to continue.</div>
     </label>
